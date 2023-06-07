@@ -1,4 +1,4 @@
-# classification_of_offensive_tweets
+# Offensive Language Identification 
 This repository contains the code, models, and datasets for the Tweet Offensive Target Identification task. 
 
 ## Introduction
